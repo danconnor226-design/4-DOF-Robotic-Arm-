@@ -13,6 +13,10 @@ Chassis Material: Popsicle sticks, Illustration board.
 Coding Language: C++, written in Arduino IDE.
 
 
+Schematic:
+
+![1791381717152.jpg](https://github.com/user-attachments/assets/c16e8995-1c02-4c46-af29-f482c6af24bd)
+
 
 
 
