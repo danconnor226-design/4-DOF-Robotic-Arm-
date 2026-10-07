@@ -22,6 +22,14 @@ Schematic:
 
 
 
+Full Showcase:
+
+
+![1791381814945.jpg](https://github.com/user-attachments/assets/6e37c44c-909e-4b54-ad44-12419d610e62)
+
+
+
+
 
 Final Test Run:
 
